@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ALRUSIK
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning C++
