@@ -1,121 +1,106 @@
-# 👋 Hey, I'm Yurii
+# Hey, I'm Yurii 👋
 
-I'm a Safety Manager, software developer, and Computer Science student focused on building technology that solves real operational problems.
+```text
+Safety Manager
+Software Developer
+Computer Science Student
+Building Safety Technology
+```
 
-My background combines transportation safety, DOT compliance, and software engineering — allowing me to build systems used in real-world environments instead of only classroom projects.
+I work in transportation safety and compliance while building software that solves real operational problems.
 
-Currently working in fleet safety and compliance while building software products focused on automation, safety, and operational efficiency.
+Most of my projects come from actual problems I encounter working in fleet operations, compliance, safety management, and automation.
 
-## 🔭 What I'm Building
+Currently balancing:
+
+🛡 Managing fleet safety & compliance
+
+💻 Building software products
+
+📚 Studying Computer Science
+
+🚀 Learning how to build better systems
+
+---
+
+## What I'm Building
 
 ### SafetyHub Pro
 
-AI-powered fleet safety and DOT compliance platform built for carriers.
+AI-powered fleet safety and DOT compliance platform.
 
-Features include:
+→ Driver qualification management
 
-• Driver qualification management
+→ Claims & incident management
 
-• Violation & inspection tracking
+→ Compliance automation
 
-• Claims management
+→ FMCSA integrations
 
-• FMCSA integrations
+→ Safety analytics
 
-• AI document processing
-
-• Compliance automation
+---
 
 ### VioCodes
 
-Violation intelligence and compliance research platform designed to simplify understanding DOT violations, severity weights, and regulatory information.
+Platform focused on violation intelligence and compliance research.
+
+→ DOT violations
+
+→ Severity weights
+
+→ Compliance lookup
+
+→ Safety intelligence
+
+---
 
 ### Yuriance TMS
 
-Production Transportation Management System used for dispatch, safety, accounting, inventory, maintenance, and fleet operations.
+Transportation Management System built from scratch and used in production.
 
-## 💼 What I Work With
+→ Dispatch workflows
 
-• DOT / FMCSA Compliance
+→ Fleet operations
 
-• Fleet Safety Operations
+→ Safety management
 
-• Full-Stack Development
+→ Maintenance tracking
 
-• API Integrations
+---
 
-• Safety Automation
+## Current Focus
 
-• Claims & Compliance Systems
+```cpp
+while(true){
 
-• AI-Powered Workflows
+    Learn();
 
-• Process Automation
+    Build();
 
-## 🌱 Currently Learning
+    BreakThings();
 
-• Computer Science fundamentals
+    FixThings();
 
-• Advanced Data Structures & Algorithms
+    Repeat();
 
-• System Design & Architecture
+}
+```
 
-• Security & Defensive Technologies
+## Interests
 
-• Scalable Backend Systems
+• Safety Technology
 
-## 💻 Tech Stack
+• Backend Engineering
 
-Frontend:
+• AI & Automation
 
-• Next.js
+• Transportation Systems
 
-• React
+• Building Products
 
-• TypeScript
+• Solving Real Problems
 
-• Tailwind CSS
+---
 
-Backend:
-
-• Node.js
-
-• Python
-
-• REST APIs
-
-• PostgreSQL
-
-Infrastructure / Tools:
-
-• Google APIs
-
-• OpenAI APIs
-
-• Automation Systems
-
-• Database Design
-
-• Authentication Systems
-
-## 🚀 Interests
-
-• Building SaaS products
-
-• Transportation technology
-
-• Safety systems
-
-• AI integrations
-
-• Backend engineering
-
-• Automation
-
-• Infrastructure
-
-## 📫 Connect With Me
-
-I'm always interested in building new things, collaborating with others, and learning from people working on difficult problems.
-
-Feel free to explore my projects or reach out.
+> Building systems that make fleets safer, operations simpler, and work more automated.
